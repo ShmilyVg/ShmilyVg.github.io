@@ -104,4 +104,4 @@ theme: butterfly
 deploy:
   type: 'git'
   repo: 'git@github.com/ShmilyVg/ShmilyVg.github.io'
-  branch: 'master'
+  branch: 'gh-pages'
